@@ -1,1 +1,1 @@
-# Quiz-App
+Online Quiz system is created by Me using HTML,css and Javascript.A website that helps students to get Clear Their Round by practising various therotical subjects like CN,OOPS,OS,DBMS as well as DSA in the form of Quiz.
